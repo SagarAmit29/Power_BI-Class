@@ -1,0 +1,10 @@
+https://drive.google.com/drive/folders/1CdENYyi0PtHa9o_HFY3vOEQ5Fa2avXD2?usp=drive_link
+
+
+
+
+Please find the Datasets for Power BI - Dashboard Assignment
+
+Dashboard 1 (Superstore dataset) - https://community.tableau.com/s/question/0D54T00000CWeX8SAL/sample-superstore-sales-excelxls 
+
+Dashboard 2 (Titanic dataset) - https://www.kaggle.com/datasets/yasserh/titanic-dataset
